@@ -1,0 +1,86 @@
+{
+  "food": [
+    {
+      "id": "1",
+      "name": "Chicken Biryani",
+      "image": "https://images.slurrp.com/prod/recipe_images/transcribe/dinner/Hyderabadi-Chicken-Biryani.webp",
+      "price": 800,
+      "category": "Food"
+    },
+    {
+      "id": "2",
+      "name": "Egg and cucumber",
+      "image": "https://s3-alpha-sig.figma.com/img/6ae1/8111/f0f7b86649f85bc5dd07e32cc4663d44?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IhSmt1nJJmKuN39xq3P9Q8Vhdz5JBGvzRgND8cLtMJ9URRaSPmVlHpuvwTITDlgHltdfH18rtei-A8uFBnlJlYqD2-UcYe3gD2IIFroChEL3nFr-gEMXEswSNlzHJtUilek~R7nF93LvLvXKn~6Wjm9q9waIiLKD~02bZqwhDtiQz~LjaLmm4gNotzg5Bcl6Tsa8NTxBPLMES1O6lJ3E7DNY6drb7fiMm6wpCayU0UZmo5j4iAcWQp7il5bHTlLCSGd501NobE7jjOW23Q2~NIh-w4D2f3GJ5CxeFJXooxS7dTAyKU8Jz5SBtbPn8UVFMC6H2vOFrQZFBhvl~uKd5w__",
+      "price": 1900,
+      "category": "Food"
+    },
+    {
+      "id": "3",
+      "name": "Fried chicken",
+      "image": "https://s3-alpha-sig.figma.com/img/05d2/2dde/db32c62ddc3bb93b3bd487e381aa3644?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Pr3u4Y0KYhwtRN40~nbSZsPW4d~qR12Wc9HQlPrr8S2sNBtKS7V3zbzQgqecEYDWfGmUH~2q-nJBuWTIAgrFUWXCyeWQqrpEcwlxpk0ylknb4W2~-w4HeWBYqc~KmQu8fS9-GIcSddPnMDxQY4bhxmYVW2Gtd7IB2rbHj-qugPUJqls2jt~VMi~CCbXosjmSnmYYKNVlE9QmE0t57uiE39q71Mboopimt5BhQqGQWOsHE9uI7vKSoqlJeGwb-Ng1KHr~pMTBCPCflanVoBg411OQs~jSOhYsVfLMCI4uSZ0smVA~cetr2JdmQUXi6QGYlAqtkcIPgQGx9LQjdn37sg__",
+      "price": 1500,
+      "category": "Food"
+    },
+    {
+      "id": "6",
+      "name": "Cola",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2023/02/coca-cola.jpg",
+      "price": 200,
+      "category": "Drinks"
+    },
+    {
+      "id": "7",
+      "name": "Sprite",
+      "image": "https://cdn.shoplightspeed.com/shops/609238/files/3198462/sprite-12-oz-can.jpg",
+      "price": 200,
+      "category": "Drinks"
+    },
+    {
+      "id": "8",
+      "name": "French fries",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/03/French-fries-b9e3e0c.jpg?quality=90&resize=556,505",
+      "price": 400,
+      "category": "Snacks"
+    },
+    {
+      "id": "9",
+      "name": "Nuggets",
+      "image": "https://burgerking.kz/uploads/menuproducts/image/1628581751.png",
+      "price": 700,
+      "category": "Snacks"
+    },
+    {
+      "id": "10",
+      "name": "Cheese sauce",
+      "image": "https://imageproxy.wolt.com/menu/menu-images/61c9891031184b3eeaa761d1/c26b23c8-3835-11ef-b573-8698974ea92f_1501?w=960",
+      "price": 50,
+      "category": "Sauces"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "pass",
+      "name": "Jane",
+      "phone": "87786995840",
+      "address": "Almaty, Kurmangazy 3"
+    },
+    {
+      "id": "f980",
+      "name": "gulbik",
+      "phone": "87777777756",
+      "address": "Turan st",
+      "username": "gulbik",
+      "password": "123"
+    },
+    {
+      "id": "5453",
+      "name": "Dan",
+      "phone": "87796543567",
+      "address": "Uly dala",
+      "username": "user2",
+      "password": "pass2"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.icon-div  {
+    height :35px;
+    width : 35px;
+    border-radius: 10px;
+    display:inline-flex;;
+    margin-right: 7px;
+}
+.icon-div svg{
+    margin: auto;
+    color: white;
+}

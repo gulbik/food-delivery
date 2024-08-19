@@ -1,0 +1,28 @@
+header{
+    margin-left: 40px;
+}
+.food-page-image img{
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.food-page-details h2{
+    margin-top: 20px;
+    font-size: 28px;
+    font-weight: 800;
+}
+.food-page-details p {
+    font-size: 25px;
+    font-weight: 600;
+    color: #fdc83b;;
+}
+.delivery-info{
+    margin: 10px 40px
+}
+.delivery-info h3{
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 5px;
+    font-weight: 900;
+}

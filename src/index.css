@@ -1,0 +1,144 @@
+
+body {
+ background-color: #f2f2f2;
+}
+
+.back-button{
+  position: absolute;
+  font-size: 24px;
+  margin-left: 40px;
+  padding-top: 48px;
+}
+
+.home-page{
+  height: 100vh;
+}
+.home-heading{
+  margin-left: 40px;
+}
+.search-bar {
+  width: 300px;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 70px;
+  background-color: #efeeee;
+  margin-left: 40px;
+}
+
+.search-icon {
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  color: #7d7d7d;
+}
+
+.search-input {
+  border: none;
+  background-color: transparent;
+  font-size: 16px;
+  color: #7d7d7d;
+  padding-left: 0;
+}
+
+.search-input:focus {
+  outline: none;
+  background-color: transparent;
+}
+
+.food-card {
+  flex: 0 0 auto;
+  width: 200px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding: 20px;
+  margin-right: 30px;
+  margin-top: 60px;
+}
+.food-item {
+  text-decoration: none;
+}
+.food-list{
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+  padding-left: 40px;
+}
+.food-list::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+.food-image img {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  margin-top: -50px;
+  object-fit: cover;  
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+}
+.food-details {
+  margin-top: 20px;
+}
+.food-details h2 {
+  font-size: 24px;
+  margin: 10px 0;
+  color: #333333;
+  height: 58px;
+}
+.food-details .price {
+  font-size: 20px;
+  color: #f5a623;
+  
+}
+
+
+.category {
+  display: flex;
+  gap: 30px;
+  list-style-type: none;
+  font-size: 20px;
+  overflow-x: scroll;
+  color: #7d7d7d;
+  padding-left: 65px;
+}
+
+.category::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+.category .active{
+  border-bottom: 2px solid orange;
+  color: #fdc83b;
+}
+
+.navbar{
+  margin-left: 40px;
+}
+.icon{
+  font-size: 25px;
+  color: #7d7d7d;
+}
+
+.header-icon{
+  font-size: 30px;
+}
+
+
+.yellow-btn {
+  width: 80%;
+  max-width: 300px;
+  padding: 15px;
+  background-color: #fdc83b;
+  color: black;
+  border: none;
+  border-radius: 50px;
+  font-size: 16px;
+  margin-bottom: 40px;
+}
+
+.form-check-input:checked{
+  background-color: #f5a623;
+  border-color: #fdc83b;
+}
